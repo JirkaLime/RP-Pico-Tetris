@@ -10,12 +10,12 @@
 #### Tetris Rotation: <https://harddrop.com/wiki/Nintendo_Rotation_System>
 #### Tetris Wiki: <https://tetris.fandom.com/wiki/SRS>
 ### **Překlad barev:**
-#### Displej který jsem použil nepužívá normalní formáty pro zobrazení jako HEX [[2]](https://en.wikipedia.org/wiki/Web_colors) nebo RGB [[3]](https://en.wikipedia.org/wiki/RGB_color_model).
+#### Displej který jsem použil nepužívá normalní formáty pro zobrazení jako HEX [[1]](https://en.wikipedia.org/wiki/Web_colors) nebo RGB [[2]](https://en.wikipedia.org/wiki/RGB_color_model).
 #### Proto jsem si napsal jednoduchý program v Pythonu na konvertování barev z PNG obrázků, což mi velmi usnadnilo manipulaci s barvami textur.
 ### **Program:**
 ![Tetromina](https://github.com/JirkaLime/RP-Pico-Tetris/blob/main/Obrazky/gp01.avifs?raw=true)
 
 ### Co to umí?
-#### Program umí plně pohyovat s Tetrominy [[1]](https://en.wikipedia.org/wiki/Tetromino), umí s nimi rotovat bere v potaz kolize.
+#### Program umí plně pohyovat s Tetrominy [[3]](https://en.wikipedia.org/wiki/Tetromino), umí s nimi rotovat bere v potaz kolize.
 #### Je 7 barevných provedení, 7 růných tvarů a každý z nich může rotovat. 
 ![Tetromina](https://github.com/JirkaLime/RP-Pico-Tetris/blob/main/tetris_sheet.png?raw=true)
