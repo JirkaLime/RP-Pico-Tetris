@@ -1,5 +1,5 @@
 ## RP-Pico-Tetris
-### Pouzil jsem:
+### Použil jsem:
 #### Waveshare Pico LCD 1.3: <https://www.waveshare.com/wiki/Pico-LCD-1.3>
 #### Raspberry Pi Pico: <https://www.raspberrypi.com/products/raspberry-pi-pico>
 #### Firmware: <https://github.com/v923z/micropython-ulab>
@@ -9,7 +9,10 @@
 #### Tetris Moves: <https://codegolf.stackexchange.com/questions/90255/given-a-list-of-tetris-moves-return-the-number-of-completed-lines>
 #### Tetris Rotation: <https://harddrop.com/wiki/Nintendo_Rotation_System>
 #### Tetris Wiki: <https://tetris.fandom.com/wiki/SRS>
-
+### **Překlad barev:**
+#### Displej který jsem použil nepužívá normalní formáty pro zobrazení jako HEX [[2]](https://en.wikipedia.org/wiki/Web_colors) nebo RGB [[3]](https://en.wikipedia.org/wiki/RGB_color_model).
+#### Proto jsem si napsal jednoduchý program v Pythonu na konvertování barev z PNG obrázků, což mi velmi usnadnilo manipulaci s barvami textur.
+### **Program:**
 ![Tetromina](https://github.com/JirkaLime/RP-Pico-Tetris/blob/main/Obrazky/gp01.avifs?raw=true)
 
 ### Co to umí?
