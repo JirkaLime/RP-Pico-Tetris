@@ -16,6 +16,8 @@
 
 ### Jak to vypadá?
 ![Tetromina](https://github.com/JirkaLime/RP-Pico-Tetris/blob/main/Obrazky/gp01.avifs?raw=true)
+![Pico](https://github.com/JirkaLime/RP-Pico-Tetris/blob/main/Obrazky/pic01.png?raw=true)
+
 
 ### Co to umí?
 #### Program umí plně pohyovat s Tetrominy [[3]](https://en.wikipedia.org/wiki/Tetromino), umí s nimi rotovat a bere v potaz kolize,
