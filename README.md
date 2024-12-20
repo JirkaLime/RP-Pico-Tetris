@@ -10,6 +10,7 @@
 #### Tetris Rotation: <https://harddrop.com/wiki/Nintendo_Rotation_System>
 #### Tetris Wiki: <https://tetris.fandom.com/wiki/SRS>
 
+![Tetromina](https://github.com/JirkaLime/RP-Pico-Tetris/blob/main/Obrazky/gp01.avifs?raw=true)
 
 ### Co to umí?
 #### Program umí plně pohyovat s Tetrominy [[1]](https://en.wikipedia.org/wiki/Tetromino), umí s nimi rotovat bere v potaz kolize.
