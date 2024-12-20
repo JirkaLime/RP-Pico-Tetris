@@ -20,5 +20,6 @@
 ### Co to umí?
 #### Program umí plně pohyovat s Tetrominy [[3]](https://en.wikipedia.org/wiki/Tetromino), umí s nimi rotovat a bere v potaz kolize,
 #### okolního prostředí. Bloky mají 7 barevných provedení, 7 růných tvarů a každý z nich může rotovat. 
-#### V této verzi program nejeví žádné chyby a vše funguje jak má.
+> V této verzi program nejeví žádné chyby a vše funguje jak má.
+##### Barevné provedení, Typy a možné rotace Tetromin
 ![Tetromina](https://github.com/JirkaLime/RP-Pico-Tetris/blob/main/tetris_sheet.png?raw=true)
